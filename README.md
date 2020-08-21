@@ -15,7 +15,7 @@ Hestacenter is a repository where you can find link for bash which run on ubuntu
 
 
 
-* [Phpversin.sh](https://github.com/Hestabit/switchphpversion/) - Help you to switch phpversion!
+* [Phpversion.sh](https://github.com/Hestabit/switchphpversion/) - Help you to switch phpversion!
 * [Vhost.sh](https://github.com/Hestabit/createVhost) - Help you to create Vhost for ubuntu.
 * On the way keep visiting
 
