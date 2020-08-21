@@ -1,10 +1,10 @@
-# Hestacenter
+# HestaCenter
 
 [![Hestabit](https://hestabit-development.s3-us-west-2.amazonaws.com/images/hb.png)](https://www.hestabit.com)
 
 
 
-Hestacenter is a repository where you can find link for bash which run on ubuntu and useful content which make the developer life easy.
+HestaCenter is a repository where you can find link for bash which run on ubuntu and useful content which make the developer life easy.
 
  
 
